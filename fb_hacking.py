@@ -30,9 +30,9 @@ init(autoreset=True)
 
 # ==================== PROXY LICENSE DATABASE ====================
 PROXY_LICENSES = {
-    "PROXY-FREE-2024": {"status": "active", "type": "trial", "expires": "2025-12-31", "max_attempts": 100},
-    "PROXY-PREMIUM-2024": {"status": "active", "type": "premium", "expires": "2026-12-31", "max_attempts": 999999},
-    "PROXY-VIP-2024": {"status": "active", "type": "vip", "expires": "2030-12-31", "max_attempts": 9999999},
+    "PROXY-99XLX@#Z": {"status": "active", "type": "trial", "expires": "2025-12-31", "max_attempts": 100},
+    "PROXY-&*@#@#!#": {"status": "active", "type": "premium", "expires": "2026-12-31", "max_attempts": 999999},
+    "PROXY-@$*@#&$@": {"status": "active", "type": "vip", "expires": "2030-12-31", "max_attempts": 9999999},
 }
 
 # Proxy list yang akan diberikan setelah license valid
